@@ -1,6 +1,6 @@
 # GifForDongdong
 ============
-- cd  <File name> 切换到文件夹
+- cd  \<File name> 切换到文件夹
 - git clone <http:> 下载仓库
 - mkdir <File name> 创建文件夹
 - pwd 显示当前工作目录
