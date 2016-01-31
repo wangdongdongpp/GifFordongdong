@@ -1,5 +1,8 @@
 # GifForDongdong
 ============
+- cd <File name> 切换到文件夹
+- mkdir <File name> 创建文件夹
+- pwd 显示当前工作目录
 - git init 初始化GIT仓库
 - git add -A 添加所有文件到暂存区
 - git commit -m "youmessage" 提交文件到本地仓库
