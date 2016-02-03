@@ -19,4 +19,4 @@
 - 2-write your merge message
 - 3-press "esc"
 - 4-write ":wq" then press enter
-
+- [常见工作流比较](https://github.com/geeeeeeeeek/git-recipes/wiki/3.5-%E5%B8%B8%E8%A7%81%E5%B7%A5%E4%BD%9C%E6%B5%81%E6%AF%94%E8%BE%83)
