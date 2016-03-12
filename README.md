@@ -20,3 +20,8 @@
 - 3-press "esc"
 - 4-write ":wq" then press enter
 - [常见工作流比较](https://github.com/geeeeeeeeek/git-recipes/wiki/3.5-%E5%B8%B8%E8%A7%81%E5%B7%A5%E4%BD%9C%E6%B5%81%E6%AF%94%E8%BE%83)
+- [Git教程](http://www.yiibai.com/git/)
+- [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+- [git-book](http://git-scm.com/book/zh/v2)
+- [25个 Git 进阶技巧](http://www.codeceo.com/article/25-git-tips.html)
+- [learnGitBranching](http://pcottle.github.io/learnGitBranching/)
