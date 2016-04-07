@@ -15,6 +15,7 @@
 - git branch \<branch name> 新建分支
 - git checkout \<branch name> 切换到分支
 - git branch -d \<branch name> 删除分支
+- git rm -r --cached 
 - 1-press "i"
 - 2-write your merge message
 - 3-press "esc"
